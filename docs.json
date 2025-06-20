@@ -38,12 +38,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Pageloop App",
-          "href": "https://app.pageloop.ai/",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Website",
+          "anchor": "Pageloop Home",
           "href": "https://pageloop.ai/",
           "icon": "globe"
         }
