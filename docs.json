@@ -8,7 +8,7 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/pageloop mark v.2 black.svg",
   "navigation": {
   "tabs": [
     {
@@ -32,8 +32,8 @@
   }
 },
   "logo": {
-    "light": "/logo/light-pageloop.svg",
-    "dark": "/logo/dark-pageloop.svg"
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
