@@ -24,7 +24,7 @@
   "global": {
     "anchors": [
       {
-        "anchor": "Pageloop Home",
+        "anchor": "Website",
         "href": "https://pageloop.ai/",
         "icon": "globe"
       }
@@ -44,7 +44,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Pageloop App",
       "href": "https://app.pageloop.ai/"
     }
   },
