@@ -10,27 +10,37 @@
   },
   "favicon": "/favicon-pageloop.svg",
   "navigation": {
-  "tabs": [
-    {
-      "tab": "Guides",
-      "groups": [
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "getting-started"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
         {
-          "group": "Getting Started",
-          "pages": ["getting-started"]
+          "anchor": "Website",
+          "href": "https://pageloop.ai/",
+          "icon": "globe"
         }
       ]
-    }
-  ],
-  "global": {
-    "anchors": [
+    },
+    "groups": [
       {
-        "anchor": "Website",
-        "href": "https://pageloop.ai/",
-        "icon": "globe"
+        "group": "Guides",
+        "pages": [
+          "guides/smart-search"
+        ]
       }
     ]
-  }
-},
+  },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
