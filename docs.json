@@ -17,8 +17,7 @@
           {
             "group": "Getting Started",
             "pages": [
-              "getting-started",
-              "guides/getting-started/navigating-pageloop"
+              "getting-started"
             ]
           }
         ]
