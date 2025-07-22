@@ -31,7 +31,20 @@
           "icon": "globe"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Guides",
+        "pages": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "guides/getting-started/navigating-the-pageloop-dashboard"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
