@@ -17,7 +17,8 @@
           {
             "group": "Getting Started",
             "pages": [
-              "getting-started"
+              "getting-started",
+              "guides/getting-started/navigating-pageloop"
             ]
           }
         ]
@@ -31,20 +32,7 @@
           "icon": "globe"
         }
       ]
-    },
-    "groups": [
-      {
-        "group": "Guides",
-        "pages": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "guides/getting-started/navigating-pageloop"
-            ]
-          }
-        ]
-      }
-    ]
+    }
   },
   "logo": {
     "light": "/logo/light.svg",
