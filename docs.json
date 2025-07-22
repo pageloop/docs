@@ -32,7 +32,20 @@
           "icon": "globe"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Guides",
+        "pages": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "guides/getting-started/navigating-pageloop"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
